@@ -12,4 +12,4 @@ Link para baixar meu certificado na DIO:
   perfil
 </a>
 
-<img src="">
+<img src="https://github.com/Samuel1s/web-tp0/blob/main/assets/img/medalha-curso-git-na-dio.pdf">
