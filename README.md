@@ -1,5 +1,3 @@
-# web-tp0
-TP0 do curso de Programação Web do CEFET/MG
 <h1>TP0 de Web: Aprendendo Git</h1>
 
 Link para meu perfil na Digital Innovation One (DIO):
@@ -12,4 +10,4 @@ Link para baixar meu certificado na DIO:
   perfil
 </a>
 
-<img src="https://github.com/Samuel1s/web-tp0/blob/main/assets/img/medalha-curso-git-na-dio.png">
+<img src="https://fegemo.github.io/cefet-web/images/medalha-curso-git-na-dio.png">
